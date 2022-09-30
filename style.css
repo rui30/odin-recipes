@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+
+h2,
+h3 {
+    background-color: yellow;
+    color: red;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
